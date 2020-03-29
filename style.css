@@ -1,0 +1,40 @@
+.main{
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.section{
+    padding: 0px 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.holder{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.prepic{
+    padding-top: 10px;
+}
+
+
+#carouselExampleIndicators{
+    padding: 50px 100px;
+}
+
+.carousel-inner{
+    align-content: center;
+}
+
+.carousel-item{
+    padding: 10px 10px;
+}
+.d-block{
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+}
