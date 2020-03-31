@@ -1,0 +1,19 @@
+{
+  "name": "photography-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bootstrap-material-design.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshpawar05/photography-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshpawar05/photography-website/issues"
+  },
+  "homepage": "https://github.com/rakeshpawar05/photography-website#readme"
+}
